@@ -7,7 +7,8 @@ function PokemonForm({ addPokemon }) {
   const [frontUrl, setFrontUrl] = useState("");
   const [backUrl, setBackUrl] = useState("");
 
-  const handleSubmit = () => {
+  const handleSubmit = (e) => {
+    e.preventDefault();
     addPokemon({
       name,
       hp,

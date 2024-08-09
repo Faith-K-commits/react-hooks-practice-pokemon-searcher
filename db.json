@@ -1343,7 +1343,7 @@
     },
     {
       "name": "dfghjkl",
-      "hp": "32",
+      "hp": "92",
       "sprites": {
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/30.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/30.png"
